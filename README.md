@@ -1,2 +1,2 @@
 # tugas-pertemuan1
-Latihan 1-9
+Latihan 1
